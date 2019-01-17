@@ -5,4 +5,4 @@ This is an implementation for estimating the value of the product.
 
 The implementation was done based on Monte Carlo simulation and Gaussian copula approach. 
 
-It was coded in c++ and bound with python through jupyter notebook.
+Python - c++ bindings were applied and the model was run through jupyter notebook.
